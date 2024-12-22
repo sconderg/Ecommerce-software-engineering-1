@@ -8,7 +8,7 @@ A comprehensive system designed for an e-commerce platform, enabling users to br
 - [Features](#features)
 - [Included Documentation](#included-documentation)
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
+- [Credits](#credits)
 
 
 ## **Introduction**

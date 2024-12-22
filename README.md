@@ -2,7 +2,6 @@
 
 A comprehensive system designed for an e-commerce platform, enabling users to browse products, add them to their cart, and complete secure purchases. This repository includes detailed documentation and diagrams illustrating the design and functionality of the system.
 
----
 
 ## **Contents**
 - [Introduction](#introduction)
@@ -11,12 +10,10 @@ A comprehensive system designed for an e-commerce platform, enabling users to br
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 
----
 
 ## **Introduction**
 This project represents the analysis and design phase of an e-commerce system. It includes a collection of diagrams and documents that outline the system's requirements, processes, and architecture. The goal is to create a scalable and efficient platform for online shopping.
 
----
 
 ## **Features**
 - User authentication (Login/Register).
@@ -25,7 +22,6 @@ This project represents the analysis and design phase of an e-commerce system. I
 - Secure checkout and payment process.
 - Shipping information management.
 
----
 
 ## **Included Documentation**
 This repository contains the following documentation and diagrams:
@@ -50,13 +46,11 @@ This repository contains the following documentation and diagrams:
 7. **Sequence Diagram:**  
    Explains how objects in the system interact during specific processes.
 
----
 
 ## **Technologies Used**
 - **UML Tools:** Used for creating diagrams (Edrawmax).
 - **Markdown:** For writing documentation.
 
----
 
 ## **How to Use**
 1. Explore the repository to view the provided documents and diagrams.

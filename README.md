@@ -1,60 +1,36 @@
-# **E-Commerce System Documentation**
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-A comprehensive system designed for an e-commerce platform, enabling users to browse products, add them to their cart, and complete secure purchases. This repository includes detailed documentation and diagrams illustrating the design and functionality of the system.
+## Getting Started
 
+First, run the development server:
 
-## **Contents**
-- [Introduction](#introduction)
-- [Features](#features)
-- [Included Documentation](#included-documentation)
-- [Technologies Used](#technologies-used)
-- [Credits](#credits)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## **Introduction**
-This project represents the analysis and design phase of an e-commerce system. It includes a collection of diagrams and documents that outline the system's requirements, processes, and architecture. The goal is to create a scalable and efficient platform for online shopping.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## **Features**
-- User authentication (Login/Register).
-- Browsing and searching for products.
-- Add products to a cart and update it.
-- Secure checkout and payment process.
-- Shipping information management.
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-## **Included Documentation**
-This repository contains the following documentation and diagrams:
-1. **SRS (Software Requirements Specification):**  
-   A detailed document outlining the functional and non-functional requirements of the system.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-2. **Use Case Diagram:**  
-   Visual representation of the interactions between users and the system.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-3. **Activity Diagram:**  
-   A step-by-step flow of activities within the system.
+## Deploy on Vercel
 
-4. **State Diagram:**  
-   Illustrates the different states of the system and how it transitions between them.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-5. **Class Diagram:**  
-   Shows the structure of the system, including classes and their relationships.
-
-6. **ERD (Entity-Relationship Diagram):**  
-   Database design, illustrating tables and their relationships.
-
-7. **Sequence Diagram:**  
-   Explains how objects in the system interact during specific processes.
-
-
-## **Technologies Used**
-- **UML Tools:** Used for creating diagrams (Edrawmax).
-- **Markdown:** For writing documentation.
-- **Visily:** For creating wireframes
-
-
-## **Credits**
-This project was developed and documented by:  
-
-- **Amir Muhammad Abdelrhman Muhammad (202320183)**  
-- **Hager Wael Abdelhalim Mohamed (202220192)**  
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

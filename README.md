@@ -52,7 +52,8 @@ This repository contains the following documentation and diagrams:
 - **Markdown:** For writing documentation.
 
 
-## **How to Use**
-1. Explore the repository to view the provided documents and diagrams.
-2. Download the files to analyze or use them as a reference for similar projects.
-3. Review the SRS to understand the full scope of the system.
+## **Credits**
+This project was developed and documented by:  
+
+- **Amir Muhammad Abdelrhman Muhammad (202320183)**  
+- **Hager Wael Abdelhalim Mohamed (202220192)**  

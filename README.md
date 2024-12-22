@@ -50,6 +50,7 @@ This repository contains the following documentation and diagrams:
 ## **Technologies Used**
 - **UML Tools:** Used for creating diagrams (Edrawmax).
 - **Markdown:** For writing documentation.
+- **Visily:** For creating wireframes
 
 
 ## **Credits**
